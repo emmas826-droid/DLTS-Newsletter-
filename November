@@ -1,0 +1,332 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<title>DLTS November Newsletter</title>
+<!--
+  DLTS NOVEMBER NEWSLETTER - for sending through Sympa (lists.law.duke.edu)
+  -------------------------------------------------------------------------
+  HOW TO SEND:
+  In Sympa, go to the list's "Send a message" / HTML newsletter page and send this file
+  as the HTML message (or paste the code into the HTML box).
+  UNSUBSCRIBE LINK uses Sympa personalization codes ([% ... %]). For them to work, a list owner
+  must turn on "Allow message personalization (merge_feature)" in the list's
+  Edit List Config > Sending/receiving setup. If it's off, swap the link back to:
+  https://lists.law.duke.edu/sympa/signoff/dukelawandtechnologysociety
+  GIFS: rewind.gif, rocket.gif and laptop.gif must sit in the SAME folder as this file
+  (upload all four files together, e.g. to Netlify Drop). Outlook desktop only shows the first frame of a GIF.
+-->
+<link href="https://fonts.googleapis.com/css2?family=Bungee&family=Space+Grotesk:wght@400;700&display=swap" rel="stylesheet">
+<style type="text/css">
+  body, table, td, a { -webkit-text-size-adjust:100%; -ms-text-size-adjust:100%; }
+  table, td { mso-table-lspace:0pt; mso-table-rspace:0pt; }
+  img { -ms-interpolation-mode:bicubic; border:0; outline:none; text-decoration:none; display:block; }
+  body { margin:0 !important; padding:0 !important; width:100% !important; background:#FFF4E0; }
+  a { color:#3D5AFE; }
+  .funk { font-family:'Bungee','Arial Black',Impact,sans-serif !important; }
+  .body-font { font-family:'Space Grotesk',Arial,Helvetica,sans-serif !important; }
+  .btn a:hover { background:#111111 !important; color:#C6FF00 !important; }
+  @media only screen and (max-width:620px) {
+    .container { width:100% !important; }
+    .px { padding-left:14px !important; padding-right:14px !important; }
+    .hero-title { font-size:38px !important; line-height:40px !important; }
+    .date-col { width:70px !important; }
+    .date-num { font-size:30px !important; line-height:34px !important; }
+    .stack { display:block !important; width:100% !important; }
+  }
+</style>
+</head>
+<body style="margin:0;padding:0;background:#FFF4E0;">
+
+<div style="display:none;font-size:1px;color:#FFF4E0;line-height:1px;max-height:0;max-width:0;opacity:0;overflow:hidden;">Your November DLTS events: privacy, startups, space law, AI and more.</div>
+
+<table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" style="background:#FFF4E0;">
+<tr><td align="center" style="padding:20px 10px;">
+
+<!-- MAIN CARD -->
+<table role="presentation" class="container" width="600" cellpadding="0" cellspacing="0" border="0" style="width:600px;background:#FFFFFF;border:4px solid #111111;">
+
+  <!-- MASTHEAD -->
+  <tr><td style="background:#111111;padding:10px 20px;">
+    <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0"><tr>
+      <td class="funk" style="font-family:'Arial Black',Impact,sans-serif;font-size:13px;letter-spacing:2px;color:#C6FF00;">DUKE LAW TECH SOCIETY</td>
+      <td align="right" class="funk" style="font-family:'Arial Black',Impact,sans-serif;font-size:13px;letter-spacing:2px;color:#FF3E9D;">VOL. NOV '26</td>
+    </tr></table>
+  </td></tr>
+
+  <tr><td class="px" style="background:#C6FF00;padding:28px 24px 22px;border-bottom:4px solid #111;">
+    <p class="funk" style="margin:0 0 6px;font-family:'Arial Black',Impact,sans-serif;font-size:14px;letter-spacing:3px;color:#111;">&#9733; THE MONTHLY DROP &#9733;</p>
+    <h1 class="funk hero-title" style="margin:0;font-family:'Arial Black',Impact,sans-serif;font-size:52px;line-height:52px;color:#111;">NOVEMBER<br><span style="color:#FF3E9D;">NEWSLETTER</span></h1>
+  </td></tr>
+
+  <!-- INTRO -->
+  <tr><td class="px body-font" style="padding:26px 28px 10px;font-family:Arial,Helvetica,sans-serif;font-size:16px;line-height:25px;color:#111;">
+    <p style="margin:0 0 14px;font-size:20px;font-weight:bold;">Hi everyone! &#128075;</p>
+    <p style="margin:0 0 14px;">Here is the November DLTS Newsletter! Here, you'll find all the info you need about DLTS for the upcoming month.</p>
+    <p style="margin:0;">Thank you for your continued interest and engagement with our events this semester! October was a busy month, and November has even more ahead. Here's what's happened and what's coming up:</p>
+  </td></tr>
+
+  <!-- ===================== OCTOBER RECAP ===================== -->
+  <tr><td class="px" style="padding:26px 24px 12px;">
+    <table role="presentation" cellpadding="0" cellspacing="0" border="0"><tr>
+      <td class="funk" style="background:#FF3E9D;border:3px solid #111;padding:8px 16px;font-family:'Arial Black',Impact,sans-serif;font-size:22px;color:#111;">&#9194; OCTOBER RECAP</td>
+    </tr></table>
+  </td></tr>
+
+  <!-- GIF SLOT 2: RECAP (suggestion: rewind / "that's a wrap" / clapping) -->
+  <tr><td class="px" style="padding:6px 24px 16px;">
+    <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" style="border:3px solid #111;background:#FF3E9D;"><tr>
+      <td align="center" style="padding:12px;line-height:0;font-size:0;">
+        <img src="rewind.gif" width="300" height="300" alt="Rewind!" style="display:block;width:300px;max-width:100%;height:auto;margin:0 auto;border:2px solid #111;">
+      </td>
+    </tr></table>
+  </td></tr>
+
+  <tr><td class="px body-font" style="padding:0 24px 10px;font-family:Arial,Helvetica,sans-serif;font-size:15px;line-height:23px;color:#111;">
+    <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" style="border:3px solid #111;background:#FFF4E0;">
+      <tr><td style="padding:14px 16px;border-bottom:2px dashed #111;"><strong style="background:#C6FF00;padding:1px 6px;">10/5</strong>&nbsp; <strong>Introduction to Tech Intellectual Property Law</strong>, with attorneys from Finnegan, Wilson Sonsini, and Cooley.</td></tr>
+      <tr><td style="padding:14px 16px;border-bottom:2px dashed #111;"><strong style="background:#C6FF00;padding:1px 6px;">10/15</strong>&nbsp; <strong>Introduction to Technology Transactions</strong>, with attorneys from Wilson Sonsini and Ashurst/Perkins Coie (co-sponsored with the Intellectual Property Law Society).</td></tr>
+      <tr><td style="padding:14px 16px;border-bottom:2px dashed #111;"><strong style="background:#C6FF00;padding:1px 6px;">10/23</strong>&nbsp; <strong>Health AI &amp; Privacy: A Conversation with Kirk Nahra</strong>, partner at WilmerHale and professor at American University and Georgetown University (co-sponsored with the Health Law Society).</td></tr>
+      <tr><td style="padding:14px 16px;border-bottom:2px dashed #111;"><strong style="background:#C6FF00;padding:1px 6px;">10/28</strong>&nbsp; <strong>AI &amp; Legal Tech in Practice</strong>, with attorneys from Goodwin and Paul, Weiss, and a representative from Harvey.</td></tr>
+      <tr><td style="padding:14px 16px;border-bottom:2px dashed #111;">&#127919;&nbsp; We connected students with the <strong>Goodwin Mock Interview Program</strong>, which is running throughout the fall.</td></tr>
+      <tr><td style="padding:14px 16px;">&#128218;&nbsp; We shared our <strong>Resume Booklet</strong> (47 1L students + 5 LLM students) with our <strong>Gold Sponsors</strong> Paul Hastings and Goodwin, and our <strong>Silver Sponsors</strong> Finnegan; Morrison Foerster; Paul, Weiss; Pillsbury; Cleary Gottlieb; and Weil.</td></tr>
+    </table>
+  </td></tr>
+
+  <!-- ===================== NOVEMBER EVENTS ===================== -->
+  <tr><td class="px" style="padding:30px 24px 12px;">
+    <table role="presentation" cellpadding="0" cellspacing="0" border="0"><tr>
+      <td class="funk" style="background:#3D5AFE;border:3px solid #111;padding:8px 16px;font-family:'Arial Black',Impact,sans-serif;font-size:22px;color:#FFFFFF;">&#128197; NOVEMBER EVENTS</td>
+    </tr></table>
+  </td></tr>
+
+  <!-- EVENT: NOV 3 -->
+  <tr><td class="px" style="padding:8px 24px 16px;">
+    <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" style="border:3px solid #111;">
+      <tr>
+        <td class="date-col funk" width="88" valign="top" align="center" style="background:#FF3E9D;border-right:3px solid #111;padding:16px 6px;font-family:'Arial Black',Impact,sans-serif;color:#111;">
+          <div style="font-size:13px;letter-spacing:2px;">NOV</div><div class="date-num" style="font-size:40px;line-height:44px;">03</div><div style="font-size:11px;">MON</div>
+        </td>
+        <td valign="top" class="body-font" style="padding:16px 18px;font-family:Arial,Helvetica,sans-serif;font-size:15px;line-height:22px;color:#111;">
+          <h3 style="margin:0 0 4px;font-size:19px;line-height:24px;">Introduction to Data Privacy &amp; Cybersecurity Law</h3>
+          <p style="margin:0 0 10px;font-size:12px;font-weight:bold;letter-spacing:1px;color:#3D5AFE;">GOODWIN &middot; ALSTON &amp; BIRD</p>
+          <p style="margin:0 0 14px;">From incident response to regulatory practice, come learn about what it's like working in this space and the current issues practitioners are facing.</p>
+          <table role="presentation" cellpadding="0" cellspacing="0" border="0"><tr>
+            <td class="btn" style="background:#C6FF00;border:2px solid #111;"><a href="https://forms.gle/cm3aNiR9Sb2NCwCG6" style="display:inline-block;padding:9px 16px;font-family:'Arial Black',Arial,sans-serif;font-size:13px;color:#111;text-decoration:none;">RSVP &rarr;</a></td>
+            <td width="10">&nbsp;</td>
+            <td style="border:2px solid #111;"><a href="https://law.duke.edu/events/introduction-data-privacy-cybersecurity-law" style="display:inline-block;padding:9px 14px;font-family:Arial,sans-serif;font-size:13px;font-weight:bold;color:#111;text-decoration:none;">+ Calendar</a></td>
+          </tr></table>
+        </td>
+      </tr>
+    </table>
+  </td></tr>
+
+  <!-- EVENT: NOV 5 -->
+  <tr><td class="px" style="padding:0 24px 16px;">
+    <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" style="border:3px solid #111;">
+      <tr>
+        <td class="date-col funk" width="88" valign="top" align="center" style="background:#FF8A00;border-right:3px solid #111;padding:16px 6px;font-family:'Arial Black',Impact,sans-serif;color:#111;">
+          <div style="font-size:13px;letter-spacing:2px;">NOV</div><div class="date-num" style="font-size:40px;line-height:44px;">05</div><div style="font-size:11px;">WED</div>
+        </td>
+        <td valign="top" class="body-font" style="padding:16px 18px;font-family:Arial,Helvetica,sans-serif;font-size:15px;line-height:22px;color:#111;">
+          <h3 style="margin:0 0 4px;font-size:19px;line-height:24px;">Inside North Carolina's Meta Lawsuit</h3>
+          <p style="margin:0 0 10px;font-size:12px;font-weight:bold;letter-spacing:1px;color:#3D5AFE;">HOSTED BY SANFORD TECH POLICY GROUP</p>
+          <p style="margin:0 0 14px;">Kunal Choski, Duke Law grad and head of consumer protection for the NC DOJ, talks about the Meta addiction cases.</p>
+          <table role="presentation" cellpadding="0" cellspacing="0" border="0"><tr>
+            <td class="btn" style="background:#C6FF00;border:2px solid #111;"><a href="https://docs.google.com/forms/d/e/1FAIpQLSeQWq5yHZyBU9ZdPnJBOh1c4UujV8_NL1I_GEIBTk707MZLdw/viewform" style="display:inline-block;padding:9px 16px;font-family:'Arial Black',Arial,sans-serif;font-size:13px;color:#111;text-decoration:none;">RSVP &rarr;</a></td>
+          </tr></table>
+        </td>
+      </tr>
+    </table>
+  </td></tr>
+
+  <!-- EVENT: NOV 6 -->
+  <tr><td class="px" style="padding:0 24px 16px;">
+    <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" style="border:3px solid #111;">
+      <tr>
+        <td class="date-col funk" width="88" valign="top" align="center" style="background:#C6FF00;border-right:3px solid #111;padding:16px 6px;font-family:'Arial Black',Impact,sans-serif;color:#111;">
+          <div style="font-size:13px;letter-spacing:2px;">NOV</div><div class="date-num" style="font-size:40px;line-height:44px;">06</div><div style="font-size:11px;">THU</div>
+        </td>
+        <td valign="top" class="body-font" style="padding:16px 18px;font-family:Arial,Helvetica,sans-serif;font-size:15px;line-height:22px;color:#111;">
+          <h3 style="margin:0 0 4px;font-size:19px;line-height:24px;">How a Startup Gets Acquired &#128640;</h3>
+          <p style="margin:0 0 10px;font-size:12px;font-weight:bold;letter-spacing:1px;color:#3D5AFE;">LOWENSTEIN SANDLER</p>
+          <p style="margin:0 0 14px;">Learn the legal process startups go through to get acquired. Great for anyone interested in Emerging Companies &amp; Venture Capital.</p>
+          <table role="presentation" cellpadding="0" cellspacing="0" border="0"><tr>
+            <td class="btn" style="background:#C6FF00;border:2px solid #111;"><a href="https://forms.gle/wY7VBaY3vQmvufVY7" style="display:inline-block;padding:9px 16px;font-family:'Arial Black',Arial,sans-serif;font-size:13px;color:#111;text-decoration:none;">RSVP &rarr;</a></td>
+            <td width="10">&nbsp;</td>
+            <td style="border:2px solid #111;"><a href="https://law.duke.edu/events/how-startup-gets-acquired" style="display:inline-block;padding:9px 14px;font-family:Arial,sans-serif;font-size:13px;font-weight:bold;color:#111;text-decoration:none;">+ Calendar</a></td>
+          </tr></table>
+        </td>
+      </tr>
+    </table>
+  </td></tr>
+
+  <!-- EVENT: NOV 12 -->
+  <tr><td class="px" style="padding:0 24px 16px;">
+    <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" style="border:3px solid #111;">
+      <tr>
+        <td class="date-col funk" width="88" valign="top" align="center" style="background:#00E5FF;border-right:3px solid #111;padding:16px 6px;font-family:'Arial Black',Impact,sans-serif;color:#111;">
+          <div style="font-size:13px;letter-spacing:2px;">NOV</div><div class="date-num" style="font-size:40px;line-height:44px;">12</div><div style="font-size:11px;">WED</div>
+        </td>
+        <td valign="top" class="body-font" style="padding:16px 18px;font-family:Arial,Helvetica,sans-serif;font-size:15px;line-height:22px;color:#111;">
+          <h3 style="margin:0 0 4px;font-size:19px;line-height:24px;">Data Privacy Regulation around the Globe &#127757;</h3>
+          <p style="margin:0 0 10px;font-size:12px;font-weight:bold;letter-spacing:1px;color:#3D5AFE;">W/ INTERNATIONAL LAW SOCIETY &middot; SULLIVAN &amp; CROMWELL &middot; CIVIL LIBERTIES UNION FOR EUROPE + MORE</p>
+          <p style="margin:0 0 14px;">From GDPR to the CCPA and beyond: how different privacy frameworks shape the landscape. Great for students into regulatory practice, privacy law, and comparative law.</p>
+          <table role="presentation" cellpadding="0" cellspacing="0" border="0"><tr>
+            <td class="btn" style="background:#C6FF00;border:2px solid #111;"><a href="https://forms.gle/cmdzNFhZMYLisUnd9" style="display:inline-block;padding:9px 16px;font-family:'Arial Black',Arial,sans-serif;font-size:13px;color:#111;text-decoration:none;">RSVP &rarr;</a></td>
+            <td width="10">&nbsp;</td>
+            <td style="border:2px dashed #999;padding:9px 12px;font-family:Arial,sans-serif;font-size:12px;color:#777;">Calendar: TBD</td>
+          </tr></table>
+        </td>
+      </tr>
+    </table>
+  </td></tr>
+
+  <!-- EVENT: NOV 17 -->
+  <tr><td class="px" style="padding:0 24px 16px;">
+    <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" style="border:3px solid #111;">
+      <tr>
+        <td class="date-col funk" width="88" valign="top" align="center" style="background:#7B2FF7;border-right:3px solid #111;padding:16px 6px;font-family:'Arial Black',Impact,sans-serif;color:#FFFFFF;">
+          <div style="font-size:13px;letter-spacing:2px;">NOV</div><div class="date-num" style="font-size:40px;line-height:44px;">17</div><div style="font-size:11px;">MON</div>
+        </td>
+        <td valign="top" class="body-font" style="padding:16px 18px;font-family:Arial,Helvetica,sans-serif;font-size:15px;line-height:22px;color:#111;">
+          <h3 style="margin:0 0 4px;font-size:19px;line-height:24px;">Privacy &amp; Security: A Conversation with Marc Groman &#128272;</h3>
+          <p style="margin:0 0 10px;font-size:12px;font-weight:bold;letter-spacing:1px;color:#3D5AFE;">W/ NATIONAL SECURITY LAW SOCIETY</p>
+          <p style="margin:0 0 14px;">Join DLTS and the National Security Law Society for a conversation with Duke's own Marc Groman, who was the Senior Advisor for Privacy in the White House Office of Management and Budget under President Obama, the first Chief Privacy Officer of the Federal Trade Commission, and the Director's Advisory Board for the US National Security Agency, among many other roles.</p>
+          <table role="presentation" cellpadding="0" cellspacing="0" border="0"><tr>
+            <td class="btn" style="background:#C6FF00;border:2px solid #111;"><a href="https://forms.gle/L1yNB54qEopKKbDa8" style="display:inline-block;padding:9px 16px;font-family:'Arial Black',Arial,sans-serif;font-size:13px;color:#111;text-decoration:none;">RSVP &rarr;</a></td>
+            <td width="10">&nbsp;</td>
+            <td style="border:2px dashed #999;padding:9px 12px;font-family:Arial,sans-serif;font-size:12px;color:#777;">Calendar: TBD</td>
+          </tr></table>
+        </td>
+      </tr>
+    </table>
+  </td></tr>
+
+  <!-- EVENT: NOV 18 (SPACE - dark card) -->
+  <tr><td class="px" style="padding:0 24px 16px;">
+    <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" style="border:3px solid #111;background:#111111;">
+      <!-- GIF SLOT 3: SPACE (suggestion: rocket launch / astronaut floating / stars) -->
+      <tr><td colspan="2" align="center" style="padding:10px;line-height:0;font-size:0;background:#000000;border-bottom:3px solid #333;">
+        <img src="rocket.gif" width="260" height="260" alt="Riding a rocket to the moon" style="display:block;width:260px;max-width:100%;height:auto;margin:0 auto;">
+      </td></tr>
+      <tr>
+        <td class="date-col funk" width="88" valign="top" align="center" style="background:#FFE600;border-right:3px solid #111;padding:16px 6px;font-family:'Arial Black',Impact,sans-serif;color:#111;">
+          <div style="font-size:13px;letter-spacing:2px;">NOV</div><div class="date-num" style="font-size:40px;line-height:44px;">18</div><div style="font-size:11px;">TUE</div>
+        </td>
+        <td valign="top" class="body-font" style="padding:16px 18px;font-family:Arial,Helvetica,sans-serif;font-size:15px;line-height:22px;color:#FFFFFF;">
+          <h3 style="margin:0 0 4px;font-size:19px;line-height:24px;color:#FFFFFF;">Space Law, Public and Private &#128752;</h3>
+          <p style="margin:0 0 10px;font-size:12px;font-weight:bold;letter-spacing:1px;color:#C6FF00;">NASA GC &middot; FAA CHIEF COUNSEL &middot; COOLEY</p>
+          <p style="margin:0 0 14px;">Join the Space Law Society and DLTS (as co-sponsor) for a panel on space law and where it's headed with the General Counsel of NASA, the Chief Counsel of the FAA, and a Cooley LLP partner.</p>
+          <table role="presentation" cellpadding="0" cellspacing="0" border="0"><tr>
+            <td class="btn" style="background:#C6FF00;border:2px solid #C6FF00;"><a href="https://docs.google.com/forms/d/1Nq2Uv8vWPXL0eyrO90gszLQB4UxPvJNtXHJWDIbvxwU/viewform" style="display:inline-block;padding:9px 16px;font-family:'Arial Black',Arial,sans-serif;font-size:13px;color:#111;text-decoration:none;">RSVP &rarr;</a></td>
+            <td width="10">&nbsp;</td>
+            <td style="border:2px solid #FFFFFF;"><a href="https://law.duke.edu/events/what-space-law-conversation-general-counsels-nasa-and-faa" style="display:inline-block;padding:9px 14px;font-family:Arial,sans-serif;font-size:13px;font-weight:bold;color:#FFFFFF;text-decoration:none;">+ Calendar</a></td>
+          </tr></table>
+        </td>
+      </tr>
+    </table>
+  </td></tr>
+
+  <!-- EVENT: NOV 19 -->
+  <tr><td class="px" style="padding:0 24px 16px;">
+    <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" style="border:3px solid #111;">
+      <tr>
+        <td class="date-col funk" width="88" valign="top" align="center" style="background:#3D5AFE;border-right:3px solid #111;padding:16px 6px;font-family:'Arial Black',Impact,sans-serif;color:#FFFFFF;">
+          <div style="font-size:13px;letter-spacing:2px;">NOV</div><div class="date-num" style="font-size:40px;line-height:44px;">19</div><div style="font-size:11px;">WED</div>
+        </td>
+        <td valign="top" class="body-font" style="padding:16px 18px;font-family:Arial,Helvetica,sans-serif;font-size:15px;line-height:22px;color:#111;">
+          <h3 style="margin:0 0 4px;font-size:19px;line-height:24px;">AI Law &amp; Regulation &#129302;</h3>
+          <p style="margin:0 0 10px;font-size:12px;font-weight:bold;letter-spacing:1px;color:#3D5AFE;">FINNEGAN + MORE</p>
+          <p style="margin:0 0 14px;">Learn how the legal landscape is rapidly changing to respond to AI advancements.</p>
+          <table role="presentation" cellpadding="0" cellspacing="0" border="0"><tr>
+            <td class="btn" style="background:#C6FF00;border:2px solid #111;"><a href="https://forms.gle/a5Gy87eiW15GYN3C7" style="display:inline-block;padding:9px 16px;font-family:'Arial Black',Arial,sans-serif;font-size:13px;color:#111;text-decoration:none;">RSVP &rarr;</a></td>
+            <td width="10">&nbsp;</td>
+            <td style="border:2px dashed #999;padding:9px 12px;font-family:Arial,sans-serif;font-size:12px;color:#777;">Calendar: TBD</td>
+          </tr></table>
+        </td>
+      </tr>
+    </table>
+  </td></tr>
+
+  <!-- ===================== FIRM EVENTS ===================== -->
+  <tr><td class="px" style="padding:24px 24px 12px;">
+    <table role="presentation" cellpadding="0" cellspacing="0" border="0"><tr>
+      <td class="funk" style="background:#FF8A00;border:3px solid #111;padding:8px 16px;font-family:'Arial Black',Impact,sans-serif;font-size:22px;color:#111;">&#127970; FIRM EVENTS</td>
+    </tr></table>
+  </td></tr>
+
+  <tr><td class="px" style="padding:6px 24px 10px;">
+    <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0"><tr>
+      <td class="stack body-font" width="50%" valign="top" style="padding:0 6px 12px 0;font-family:Arial,Helvetica,sans-serif;">
+        <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" style="border:3px solid #111;background:#FFF4E0;"><tr><td style="padding:16px;font-size:14px;line-height:21px;color:#111;">
+          <p style="margin:0 0 4px;font-family:'Arial Black',Arial,sans-serif;font-size:12px;letter-spacing:1px;color:#FF3E9D;">NOV 4</p>
+          <p style="margin:0 0 8px;font-size:17px;font-weight:bold;">Orrick 1L Reception</p>
+          <p style="margin:0 0 12px;">Orrick is hosting a reception for Duke Law 1Ls.</p>
+          <a href="https://forms.cloud.microsoft/pages/responsepage.aspx?id=CKc6eBJhp0K4VccpbuMbi5BoQHwg_e5CgqnhtW8wfkBURDM1TVQ2Vkg0UTBNQktYODBMT05PSEYwUy4u&amp;route=shorturl" style="font-weight:bold;color:#3D5AFE;">Register &rarr;</a>
+        </td></tr></table>
+      </td>
+      <td class="stack body-font" width="50%" valign="top" style="padding:0 0 12px 6px;font-family:Arial,Helvetica,sans-serif;">
+        <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" style="border:3px solid #111;background:#FFF4E0;"><tr><td style="padding:16px;font-size:14px;line-height:21px;color:#111;">
+          <p style="margin:0 0 4px;font-family:'Arial Black',Arial,sans-serif;font-size:12px;letter-spacing:1px;color:#FF3E9D;">WEEK OF BLUEPRINT</p>
+          <p style="margin:0 0 8px;font-size:17px;font-weight:bold;">Wilson Sonsini on Campus</p>
+          <p style="margin:0;">Wilson Sonsini will host an on-campus event the week of Blueprint. Details to follow &#128064;</p>
+        </td></tr></table>
+      </td>
+    </tr></table>
+  </td></tr>
+
+  <!-- ===================== OTHER NEWS ===================== -->
+  <tr><td class="px" style="padding:18px 24px 12px;">
+    <table role="presentation" cellpadding="0" cellspacing="0" border="0"><tr>
+      <td class="funk" style="background:#7B2FF7;border:3px solid #111;padding:8px 16px;font-family:'Arial Black',Impact,sans-serif;font-size:22px;color:#FFFFFF;">&#128225; OTHER NEWS</td>
+    </tr></table>
+  </td></tr>
+
+  <tr><td class="px body-font" style="padding:6px 24px 10px;font-family:Arial,Helvetica,sans-serif;font-size:15px;line-height:22px;color:#111;">
+    <p style="margin:0 0 12px;font-weight:bold;">Webinars from the Stanford AI Initiative:</p>
+    <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" style="border:3px solid #111;">
+      <tr><td style="padding:12px 16px;border-bottom:2px dashed #111;"><strong style="background:#00E5FF;padding:1px 6px;">11/5</strong>&nbsp; <a href="https://stanford.zoom.us/webinar/register/WN_wR3fI1KbQBKbMNpuBmwyXg?_x_zm_rtaid=FtBPmqMbTN6HcTxwjC1b2g.1792959563279.42329adce719249435306db7b23ee5cb&amp;_x_zm_rhtaid=976#/registration" style="color:#111;font-weight:bold;">Building the AI Frontier: A View from Inside Amazon &#8599;</a></td></tr>
+      <tr><td style="padding:12px 16px;border-bottom:2px dashed #111;"><strong style="background:#00E5FF;padding:1px 6px;">11/12</strong>&nbsp; <a href="https://stanford.zoom.us/webinar/register/WN_w4VAwspORlaBWmwvSLB1vA?_x_zm_rtaid=FtBPmqMbTN6HcTxwjC1b2g.1792959563279.42329adce719249435306db7b23ee5cb&amp;_x_zm_rhtaid=976#/registration" style="color:#111;font-weight:bold;">The AI-Native Firm: Hype, Reality, and What's Next &#8599;</a></td></tr>
+      <tr><td style="padding:12px 16px;border-bottom:2px dashed #111;"><strong style="background:#00E5FF;padding:1px 6px;">11/19</strong>&nbsp; <a href="https://stanford.zoom.us/webinar/register/WN_HQ-f6p8ISW2v7gNhziL9_A?_x_zm_rtaid=FtBPmqMbTN6HcTxwjC1b2g.1792959563279.42329adce719249435306db7b23ee5cb&amp;_x_zm_rhtaid=976#/registration" style="color:#111;font-weight:bold;">How to Make AI Agents Obey the Law &#8599;</a></td></tr>
+      <tr><td style="padding:12px 16px;background:#FFF4E0;">&#127916;&nbsp; <a href="https://www.youtube.com/playlist?list=PLAx1YswjkDmMNwtzNja8m5ojRc3kbe21r" style="color:#111;font-weight:bold;">Watch the past Speaker Series &#8599;</a></td></tr>
+    </table>
+  </td></tr>
+
+  <!-- ===================== SIGN-OFF ===================== -->
+  <!-- GIF SLOT 4: SIGN-OFF (suggestion: waving / "see you there" / dancing) -->
+  <tr><td class="px" align="center" style="padding:26px 24px 6px;">
+    <table role="presentation" cellpadding="0" cellspacing="0" border="0" align="center" style="border:3px solid #111;background:#C6FF00;"><tr><td style="padding:10px;line-height:0;font-size:0;">
+      <img src="laptop.gif" width="330" height="261" alt="Man throwing his laptop: I'm done!" style="display:block;width:330px;max-width:100%;height:auto;border:2px solid #111;">
+    </td></tr></table>
+  </td></tr>
+
+  <tr><td class="px body-font" style="padding:16px 28px 30px;font-family:Arial,Helvetica,sans-serif;font-size:16px;line-height:25px;color:#111;">
+    <p style="margin:0 0 14px;">Thank you again for making the start of the year such a strong one for DLTS. We're excited for everything ahead and hope to see you at our November events!</p>
+    <p style="margin:0;">Best,<br><span class="funk" style="font-family:'Arial Black',Impact,sans-serif;font-size:20px;color:#FF3E9D;">Duke Law Technology Society</span></p>
+  </td></tr>
+
+  <!-- SPONSOR STRIP -->
+  <tr><td style="background:#111;padding:16px 20px;text-align:center;font-family:Arial,Helvetica,sans-serif;font-size:12px;line-height:19px;color:#FFFFFF;">
+    <span style="color:#FFE600;font-weight:bold;letter-spacing:1px;">&#9733; GOLD:</span> Paul Hastings &middot; Goodwin<br>
+    <span style="color:#C0C0C0;font-weight:bold;letter-spacing:1px;">&#9733; SILVER:</span> Finnegan &middot; Morrison Foerster &middot; Paul, Weiss &middot; Pillsbury &middot; Cleary Gottlieb &middot; Weil
+  </td></tr>
+
+</table>
+<!-- /MAIN CARD -->
+
+<!-- FOOTER -->
+<table role="presentation" class="container" width="600" cellpadding="0" cellspacing="0" border="0">
+<tr><td align="center" style="padding:18px 10px;font-family:Arial,Helvetica,sans-serif;font-size:11px;line-height:17px;color:#555;">
+  Duke Law Technology Society &middot; <a href="mailto:dukelawandtechnologysociety@law.duke.edu" style="color:#555;text-decoration:underline;">dukelawandtechnologysociety@law.duke.edu</a><br>
+  You're receiving this because you're subscribed to the Duke Law Technology Society mailing list.<br>
+  <a href="[% wwsympa_url %]/auto_signoff/[% listname %]/[% user.escaped_email %]" style="color:#555;text-decoration:underline;">Unsubscribe</a>
+</td></tr>
+</table>
+
+</td></tr>
+</table>
+</body>
+</html>
